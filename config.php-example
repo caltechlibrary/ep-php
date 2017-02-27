@@ -1,0 +1,13 @@
+<?php
+//
+// Local Configuration for Accessing your EPrints Repository 
+// for Testing
+//
+
+// Base URL for EPrints repository
+$EPRINT_URL = "http://eprints.example.edu"
+// EPrint authentication set the username/password if required, if empty strings it is ignored
+$EPRINT_USER = "";
+$EPRINT_PASSWORD = "";
+
+?>
